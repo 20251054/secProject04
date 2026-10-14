@@ -2,3 +2,6 @@
 Team Leader: <윤영선>
 Team Leader: <20251054>
 Project 04 version1 completed
+2nd Team Member: <정우혁>
+2nd Team Member: <20231071>
+Project 04 version2 completed
